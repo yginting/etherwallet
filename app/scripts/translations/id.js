@@ -8,12 +8,12 @@ id.data = {
   NAV_YourWallets:      'Dompet Anda', /*'Your Wallets'*/
   NAV_AddWallet:        'Tambahkan Dompet', /*'Add Wallet'*/
   NAV_GenerateWallet:   'Buat Dompet', /*'Generate Wallet'*/
-  NAV_BulkGenerate:     'Buat Banyak Dompet Sekaligus', /*'Bulk Generate'*/
+  NAV_BulkGenerate:     'Buat Lebih Dari Satu Dompet', /*'Bulk Generate'*/
   NAV_SendEther:        'Kirim Ether', /*'Send Ether'*/
   NAV_SendTokens:       'Kirim Tokens', /*'Send Tokens'*/
   NAV_Offline:          'Kirim Offline', /*'Send Offline'*/
   NAV_WithdrawDAO:      'Ambil DAO', /*'Withdraw DAO'*/
-  DAO_TitleLong:        'Ambil ETH dari Token DAO Anda Withdraw Your Dao Tokens For ETH', /*'Withdraw Your Dao Tokens For ETH'*/
+  DAO_TitleLong:        'Ambil ETH dari Token DAO Anda', /*'Withdraw Your Dao Tokens For ETH'*/
   NAV_ClaimDGD:         'Klaim DGD', /*'Claim DGD'*/
   DGD_TitleLong:        'Klaim DGD Token Anda', /*'Claim Your DGD Tokens'*/
   NAV_DeployContract:   'Deploy Contract', /*'Deploy Contract'*/
@@ -24,12 +24,12 @@ id.data = {
 
   /* General */
   x_Address:            'Alamat Anda', /*'Your Address'*/
-  x_AddessDesc:         'You may know this as your "Account #" or your "Public Key". It is what you send people so they can send you ether. That icon is an easy way to recognize your address.',
+  x_AddessDesc:         'Biasa dikenal dengan "Account #" atau "Public Key". Berikan alamat ini kepada mereka yang ingin mengirim ether ke Anda. Icon ini memudahkan mengenal alamat Anda.', /*'You may know this as your "Account #" or your "Public Key". It is what you send people so they can send you ether. That icon is an easy way to recognize your address.'*/
   x_Cancel:             'Batal', /*'Cancel'*/
   x_CSV:                'File CSV (tidak ter-enkripsi)', /*'CSV file (unencrypted)*/
-  x_Download:           'Download',
-  x_Json:               'File JSON File (tidak ter-enkripsi)', /*'JSON File (unencrypted)'*/
-  x_JsonDesc:           'This is the unencrypted, JSON format of your private key. This means you do not need the password but anyone who finds your JSON can access your wallet & Ether without the password.',
+  x_Download:           'Unduh', /*'Download'*/
+  x_Json:               'File JSON (tidak ter-enkripsi)', /*'JSON File (unencrypted)'*/
+  x_JsonDesc:           'Ini adalah Private Key Anda dalam format JSON yang tidak ter-enkripsi. Tidak diperlukan password dan siapapun yang mendapat JSON Anda dapat mengakses dompet dan Ether Anda tanpa password.', /*'This is the unencrypted, JSON format of your private key. This means you do not need the password but anyone who finds your JSON can access your wallet & Ether without the password.'*/
   x_Keystore:           'Keystore/JSON File (Recommended · Encrypted · Mist/Geth Format)',
   x_Keystore2:          'Keystore/JSON File',
   x_KeystoreDesc:       'This Keystore / JSON file matches the format used by Mist & Geth so you can easily import it in the future. It is the recommended file to download and back up.',
